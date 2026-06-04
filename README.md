@@ -1,6 +1,16 @@
 # M3L2 - Marcos de Orquestacion: LangChain
 
-<<<<<<< HEAD
+## Para quien es esta carpeta
+
+Esta carpeta contiene ejercicios extra para practicar LangChain de forma progresiva.
+
+El recorrido empieza desde cero con seis notebooks nuevos (`E00` a `E05`) y despues continua con ejercicios de profundizacion (`E06` a `E15`).
+
+Cada ejercicio tiene dos versiones:
+
+- `Starter`: notebook para completar.
+- `Resolution`: notebook completo para comparar la solucion.
+
 ## La idea central de M3L2
 
 En M3L1 construimos todo desde cero:
@@ -20,18 +30,6 @@ M3L2: usar un framework que hace el trabajo repetitivo por nosotros
 ```
 
 ---
-=======
-## Para quien es esta carpeta
-
-Esta carpeta contiene ejercicios extra para practicar LangChain de forma progresiva.
-
-El recorrido empieza desde cero con seis notebooks nuevos (`E00` a `E05`) y despues continua con ejercicios de profundizacion (`E06` a `E15`).
-
-Cada ejercicio tiene dos versiones:
-
-- `Starter`: notebook para completar.
-- `Resolution`: notebook completo para comparar la solucion.
->>>>>>> 8f97693 (mas y mas repaso..)
 
 ## Requisitos
 
