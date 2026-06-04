@@ -1,15 +1,5 @@
 # M3L2 - Marcos de Orquestacion: LangChain
 
-## Para quien es esta carpeta
-
-Estos ejercicios son para el alumno que ya completo **M3L1** (AI Agents manual)
-y quiere entender como LangChain abstrae y organiza lo que construyo a mano.
-
-No hace falta haber usado LangChain antes.
-Si hace falta haber entendido el patron ReAct, las tools y el loop de M3L1.
-
----
-
 ## La idea central de M3L2
 
 En M3L1 construimos todo desde cero:
